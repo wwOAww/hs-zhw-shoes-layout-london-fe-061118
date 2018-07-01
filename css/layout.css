@@ -24,4 +24,19 @@
 
 /* Posititoning Classes */
 
+.threec {  
+    column-count: 3;
+}
+
+.med {
+  column-width: 1000px;
+  column-gap: 200px;
+  
+}
+
+.right {
+  float: right;
+}
+
+}
 
