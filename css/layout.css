@@ -27,7 +27,7 @@
 .threec {  
     column-count: 3;
     display: flex;
-  flex-direction: row;
+ 
 }
 
 .med {
